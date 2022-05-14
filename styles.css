@@ -146,6 +146,9 @@ html{
    background-color: white;
    border-color: white;
 }
+.slider__nav-item:hover{
+   cursor: pointer;
+}
 
 /* media < 768px */
 @media screen and (max-width:768px) {
